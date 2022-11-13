@@ -10,5 +10,6 @@ namespace Homework8
         void CalculateKineticEnergy(int velocity);
         void DisplayGoalAttempts();
         void CreateCode();
+        void DidBallEnterGoal(int endPointOfBall);
     }
 }
