@@ -6,7 +6,7 @@ using System.Text;
 
 namespace Homework8
 {
-    class NormalBall : IBall
+    public class NormalBall : IBall
     {
         protected string _balltype;
         protected int _diameter;
